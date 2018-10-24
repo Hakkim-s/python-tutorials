@@ -1,0 +1,32 @@
+46
+EXERCISE 13
+Parameters, Unpacking, Variables
+
+
+FILE_handling
+
+
+myfile = open("filename.txt","r")
+myfile.close()
+cont  = myfile.read()
+print(cont.readlines())
+print(cont)
+file.close() 
+
+myfile = open("filename.txt","w")
+myfile.write("hi.am here baby ")
+myfile.close()
+
+myfile =open("filename.txt","r")
+print(myfile.read)
+myfile.close()
+
+readlines()- to print every lines in the file
+
+
+
+r - default("open in read mode")
+w - write mode(re-write the content)
+a - append mode(adding new content to the end of th efile )
+b - binary mode(non-text files)i.e image and sound files
+
