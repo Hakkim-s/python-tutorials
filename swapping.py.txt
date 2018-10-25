@@ -1,0 +1,6 @@
+v3=v1
+v1=v2
+v2=v3
+What is the order of operations?
+In the United States we use an acronym called PEMDAS, which stands for Parentheses Exponents
+Multiplication Division Addition Subtraction. That’s the order Python follows as well.
